@@ -1,0 +1,20 @@
+# C++ build files
+*.o
+*.obj
+*.exe
+*.out
+*.log
+
+# Build directories
+/build/
+/bin/
+/dist/
+/Debug/
+/Release/
+
+# Mac / Windows / IDE stuff
+.DS_Store
+Thumbs.db
+*.vcxproj*
+*.idea/
+*.vscode/
